@@ -48,7 +48,7 @@
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone https://github.com/ваш-username/REYBAN-Toolkit.git
+git clone https://github.com/Norylay/REYBAN.git
 cd REYBAN-Toolkit
 ```
 
@@ -95,6 +95,6 @@ python main.py
 
 ### Автор
 Разработчик: [@BioBolimo](https://t.me/BioBolimo)  
-GitHub: [ваш-профиль](https://github.com/norylay)
+GitHub: [Norylay](https://github.com/norylay)
 
 > Помните: этичное использование — ответственность каждого!
