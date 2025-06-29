@@ -97,6 +97,6 @@ python main.py
 
 ### Автор
 Разработчик: [@BioBolimo](https://t.me/BioBolimo)  
-GitHub: [Norylay](https://github.com/norylay)
+GitHub: [Bolimo](https://github.com/Bolimo)
 
 > Помните: этичное использование — ответственность каждого!
