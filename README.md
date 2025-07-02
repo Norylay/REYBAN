@@ -50,7 +50,7 @@
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone https://github.com/Norylay/REYBAN.git
+git clone https://github.com/BolimoTyz/REYBAN.git
 cd REYBAN-main
 ```
 
@@ -97,6 +97,6 @@ python main.py
 
 ### Автор
 Разработчик: [@BioBolimo](https://t.me/BioBolimo)  
-GitHub: [Bolimo](https://github.com/Bolimo)
+GitHub: [Bolimo](https://github.com/BolimoTyz)
 
 > Помните: этичное использование — ответственность каждого!
