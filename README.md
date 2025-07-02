@@ -98,8 +98,7 @@ python main.py
 ### Автор
 Разработчик: [@BolimoTyz](https://t.me/BolimoTyz)   (Тг-Акк)
 
-Telegram канал: [Клик]
-(https://t.me/+xi77EJ8AbkQ3M2Ey)    
+Телеграм канал: [Клик](https://t.me/+xi77EJ8AbkQ3M2Ey)
 
 GitHub: [BolimoTyz](https://github.com/BolimoTyz)
 
