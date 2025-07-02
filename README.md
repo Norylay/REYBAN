@@ -96,7 +96,11 @@ python main.py
 ---
 
 ### Автор
-Разработчик: [@BioBolimo](https://t.me/BioBolimo)  
-GitHub: [Bolimo](https://github.com/BolimoTyz)
+Разработчик: [@BolimoTyz](https://t.me/BolimoTyz)   (Тг-Акк)
+
+Telegram канал: [Клик]
+(https://t.me/+xi77EJ8AbkQ3M2Ey)    
+
+GitHub: [BolimoTyz](https://github.com/BolimoTyz)
 
 > Помните: этичное использование — ответственность каждого!
